@@ -1,0 +1,72 @@
+/* .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.item {
+  padding: 20px;
+  background: salmon;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+} */
+
+/* ---------------------------------------------------------------- */
+
+/* .navbar {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+} */
+
+/* ---------------------------------------------------------------- */
+
+/* .box {
+    width: 100px;
+    height: 100px;
+    background: salmon;
+    animation: slide 3s infinite;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(300px);
+    }
+} */
+
+/* ---------------------------------------------------------------- */ */
+/* 
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+}
+
+.pic {
+    height: 150px;
+    background: teal;
+  } */
+
+  /* ---------------------------------------------------------------- */ */
+
+
+  .form input, .form email {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+  }
+
+  .form button {
+    background: purple;
+    color: white;
+    border: none;
+  }

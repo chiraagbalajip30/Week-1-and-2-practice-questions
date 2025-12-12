@@ -1,0 +1,55 @@
+/* .container {
+  display: flex;
+}
+.box {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: lightgray;
+} */
+/* flex:1 property is used to take shared space equally among the flex items. */
+
+/* --------------------------------------------------------------- */
+
+/* .parent {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.child {
+  padding: 20px;
+  background-color: lightblue;
+} */
+
+/* ----------------------------------------------------------------- */
+
+/* .responsive {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: 100vh;
+  object-fit: cover;
+  display: block; 
+  margin: 0 auto; 
+} */
+/* max-width: this stops vertical scrolling */ /* shows entire image, no cropping */
+/* object-fit: cover; this crops the image to fill the container without distortion */
+/* display: block - removes tiny gap below image */
+/* margin: 0 auto - centers it horizontally if needed */
+
+/* ------------------------------------------------------- */
+
+/* .menu li {
+  display: inline;
+  margin-right: 20px;
+} */
+
+/* --------------------------------------------------------------- */
+
+/* .card {
+    width: 250px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+} */
