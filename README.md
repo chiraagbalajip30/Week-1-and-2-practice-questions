@@ -1,1 +1,1 @@
-# Week-1-and-2-practice-questions
+This is just a repository for practicing html and css questions
